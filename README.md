@@ -1,4 +1,4 @@
-<img src="./files/Header.png" alt="Williamingear GitHub README header image">
+<img width=100% src="./files/Header.png" alt="Williamingear GitHub README header image">
 
 ---
 
@@ -14,33 +14,25 @@
 ### About me
 I'm a Machine Learning Developer. I'm currently working on my skillset and learning new things. you can see more [here]("zil.ink/amirdallalan").
 
-### Skills 1
+## Skills
 <ul>
-    <li>Python</li>
-    <ul>
-        <li>Scikit-Learn</li>
-        <li>Tensorflow</li>
-        <li>Keras</li>
-        <li>Pytorch</li>
-    </ul>
-    <li>C++</li>
-    <li>Matlab</li>
-    <li>R</li>
-    <li>MySQL</li>
-    <li>Git</li>
+    <li>💻 Machine Learning</li>
+    <li>🧠 Deep Learning</li>
+    <li>📊 Data Analysis</li>
+    <li>🖼 Image Processing</li>
+    <li>⚡ Signal Processing</li>
+</ul>
+
+## Languages
+<ul>
+    <li>🐍 Python</li>
+    <li>🖥 C++</li>
+    <li>🟰 Matlab</li>
+    <li>📃 R</li>
 
 </ul>
 
-### Skills 2
-<ul>
-    <li>Machine Learning</li>
-    <li>Deep Learning</li>
-    <li>Data Analysis</li>
-    <li>Image Processing</li>
-    <li>Signal Processing</li>
-</ul>
-
-### Interests
+## Interests
 <ul>
     <li>Big Data</li>
     <li>Data Mining</li>
