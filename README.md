@@ -1,4 +1,4 @@
-<img width=100% src="./files/Header.png" alt="Williamingear GitHub README header image">
+<img src="./files/Header.png" alt="Williamingear GitHub README header image">
 
 ---
 
@@ -14,7 +14,8 @@
 ### About me
 I'm a Machine Learning Developer. I'm currently working on my skillset and learning new things. you can see more [here]("zil.ink/amirdallalan").
 
-## Skills
+<h3> Skills </h3>
+<p>
 <ul>
     <li>💻 Machine Learning</li>
     <li>🧠 Deep Learning</li>
@@ -22,6 +23,7 @@ I'm a Machine Learning Developer. I'm currently working on my skillset and learn
     <li>🖼 Image Processing</li>
     <li>⚡ Signal Processing</li>
 </ul>
+</p>
 
 ## Languages
 <ul>
