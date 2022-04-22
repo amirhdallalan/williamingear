@@ -1,4 +1,4 @@
-<img src="https://github.com/williamingear/williamingear/files/Header.png" alt="Williamingear GitHub README header image">
+<img src="./files/Header.png" alt="Williamingear GitHub README header image">
 
 ---
 
