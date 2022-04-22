@@ -11,10 +11,10 @@
 </p>
 
 ---
-### About me
+## About me
 I'm a Machine Learning Developer. I'm currently working on my skillset and learning new things. you can see more [here]("zil.ink/amirdallalan").
 
-<h3> Skills </h3>
+## Skills
 <p>
 <ul>
     <li>💻 Machine Learning</li>
